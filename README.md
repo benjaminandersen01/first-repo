@@ -7,5 +7,6 @@ Learning how to use GitHub
 - list
 - list
 - list
+
 This is a [sentence](https:/benjaminandersen01).
 
